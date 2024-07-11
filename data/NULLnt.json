@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/U72dlsuOltE?si=ZuVSGxAkNud-EW4E",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "doom",
+            "link": "https://youtu.be/jDbOYoJsZIQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
