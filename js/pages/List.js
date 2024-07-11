@@ -100,6 +100,9 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        Checkpoint Saving mod is allowed for the list
+                    </p>
+                    <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
